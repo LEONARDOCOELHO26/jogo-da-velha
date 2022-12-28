@@ -78,8 +78,3 @@ button:hover{
     margin: 40px 15%;
 }
 
-@media (max-width: 480px) {
-    body {
-      background: #f95e8a;
-    }
-  }
